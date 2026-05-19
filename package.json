@@ -28,11 +28,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/volta-npo/mentor-feedback-loop.git"
+    "url": "git+https://github.com/volta-npo/46-mentor-feedback-loop.git"
   },
-  "homepage": "https://volta-npo.github.io/mentor-feedback-loop/",
+  "homepage": "https://volta-npo.github.io/46-mentor-feedback-loop/",
   "bugs": {
-    "url": "https://github.com/volta-npo/mentor-feedback-loop/issues"
+    "url": "https://github.com/volta-npo/46-mentor-feedback-loop/issues"
   },
   "author": "Volta Open Source <volta.npo@gmail.com>",
   "engines": {

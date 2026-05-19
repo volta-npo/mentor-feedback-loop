@@ -12,7 +12,7 @@
 
 **Student Agency Operations** · **No backend. No login. Client data stays local.**
 
-[Live app](https://volta-npo.github.io/mentor-feedback-loop/) · [Report an issue](https://github.com/volta-npo/mentor-feedback-loop/issues) · [Volta](https://voltanpo.org)
+[Live app](https://volta-npo.github.io/46-mentor-feedback-loop/) · [Report an issue](https://github.com/volta-npo/46-mentor-feedback-loop/issues) · [Volta](https://voltanpo.org)
 
 </div>
 
@@ -182,7 +182,7 @@ This repo is designed to be usable as a real OSS product, not just a static demo
 ## 🛠️ Quick start
 
 ```bash
-git clone https://github.com/volta-npo/mentor-feedback-loop.git
+git clone https://github.com/volta-npo/46-mentor-feedback-loop.git
 cd 46-mentor-feedback-loop
 npm install
 npm test
