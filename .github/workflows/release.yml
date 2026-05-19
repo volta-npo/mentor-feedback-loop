@@ -24,7 +24,7 @@ jobs:
       - name: Package release artifact
         run: tar --exclude=.git --exclude=node_modules -czf mentor-feedback-loop-release.tar.gz .
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: mentor-feedback-loop-release
           path: mentor-feedback-loop-release.tar.gz
